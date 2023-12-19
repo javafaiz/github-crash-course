@@ -1,0 +1,20 @@
+body {
+  background-color: #83db83;
+}
+
+h1 {
+  color: #f50707;
+}
+button {
+  color: #0206f9;
+  border-radius: 3;
+  box-shadow: #bbee03;
+  background-color: #f902b7;
+  box-sizing: border-box;
+}
+h4 {
+  color: brown;
+}
+p {
+  color: rgb(7, 47, 47);
+}
